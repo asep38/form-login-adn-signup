@@ -117,6 +117,8 @@ body {
 
 .txt-field i.HidePiw {
   right: 0px;
+  cursor: pointer;
+  transition: 0.5s;
 }
 
 .checkbox-text {
